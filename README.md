@@ -1,0 +1,1 @@
+Version 3.47.2 of SQLite as a Swift package - should be compatible with Swift Static Linking.
